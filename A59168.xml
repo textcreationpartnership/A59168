@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourscore and eleventh epistle of Lucius Annæus Seneca the philosopher written vpon occasion of the sudden burning of lions in France : translated out of the original into English verse.</title>
+            <title>Epistulae morales ad Lucilium. Liber XIV, 91. English</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59168</idno>
+            <idno type="STC">Wing S2511</idno>
+            <idno type="STC">ESTC R10480</idno>
+            <idno type="EEBO-CITATION">11907279</idno>
+            <idno type="OCLC">ocm 11907279</idno>
+            <idno type="VID">50746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourscore and eleventh epistle of Lucius Annæus Seneca the philosopher written vpon occasion of the sudden burning of lions in France : translated out of the original into English verse.</title>
+                  <title>Epistulae morales ad Lucilium. Liber XIV, 91. English</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+               </titleStmt>
+               <extent>[3], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of Epistulae morales ad Lucilium, liber XIV, 91.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50746:1"/>
+            <!-- PDF PAGE 118 -->
+            <pb facs="tcp:50746:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 118 -->
+            <p>
+               <hi>The Fourſcore and Eleventh Epiſtle</hi> OF LUCIUS ANNAEUS SENECA <hi>The</hi> PHILOSOPHER.</p>
+            <p>WRITTEN <hi>
+                  <g ref="char:V">Ʋ</g>pon Occaſion of the ſudden</hi> BURNING OF Lions in France.</p>
+            <p>Tranſlated out of the Original into Engliſh Verſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Godbid.</hi> 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50746:2"/>
+            <!-- PDF PAGE 119 -->
+            <pb n="1" facs="tcp:50746:2"/>
+            <!-- PDF PAGE 119 -->
+            <head>The Fourſcore and Eleventh Epiſtle of <hi>Lucius Annaeus Seneca</hi> the Philoſopher: Written upon occaſion of the ſudden Burning of <hi>LIONS</hi> in <hi>FRANCE.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg>UR <hi>Liberalis</hi> is with grief and Pity</l>
+               <l>Fill'd at the burning of his Native City.</l>
+               <l>This direful accident might any move,</l>
+               <l>Though to that City not concern'd in love:</l>
+               <l>And even to his mind might add more ſtrength:</l>
+               <l>Who, what he fear'd, has found to come at length.</l>
+               <l>But this un-look'd for chance, and which is more</l>
+               <l>Un-heard of, 'tis no wonder that before</l>
+               <l>'Twas heard or thought on, it was fiercely ſent,</l>
+               <l>Since it was alſo without Preſident.</l>
+               <l>A raging Fire hath very much annoy'd</l>
+               <l>And damag'd Cities, but hath none deſtroy'd.</l>
+               <l>For where quick fire is thrown with hoſtile hand,</l>
+               <l>Houſes un-touch'd in many places ſtand.</l>
+               <l>And no Earth-quake hath been ſo fatal known,</l>
+               <l>That a whole City hath been overthrown.</l>
+               <l>
+                  <pb n="2" facs="tcp:50746:3"/>
+                  <!-- PDF PAGE 120 -->
+And no conſuming flame hath been ſo dire,</l>
+               <l>But it left ſomething for another fire.</l>
+               <l>So many famous Piles, which ſingly might</l>
+               <l>Crace ſeveral Cities, fell down in one night.</l>
+               <l>And in a time of Peace as much fell out</l>
+               <l>As ſcarce a cruel war could bring about.</l>
+               <l>Who could believe wars ceaſing every where</l>
+               <l>When through the World no dangers did appear,</l>
+               <l>That <hi>Lions</hi> ſo renown'd ſhould by that chance</l>
+               <l>Be ſought and doubted, where it ſtood in <hi>France.</hi>
+               </l>
+               <l>Fortune permits even thoſe who ſuffer woe,</l>
+               <l>To fear the ill they were to undergoe.</l>
+               <l>Great things have time before th' are overthrown,</l>
+               <l>This famous City in one night was none.</l>
+               <l>Laſtly, I'm longer telling thee the thing,</l>
+               <l>Than all thoſe Buildings were in periſhing.</l>
+               <l>Theſe things diſturbe our <hi>Liberalis</hi> mind,</l>
+               <l>To patience in his own affairs confin'd.</l>
+               <l>Nor is he ſo perplex'd without a cauſe,</l>
+               <l>The un-expectedneſs of chances draws</l>
+               <l>More trouble, and the novelty of things</l>
+               <l>To all calamity Addition brings.</l>
+               <l>And there's no mortal man, being ſtruck with wonder,</l>
+               <l>But ſome conceived trouble muſt lie under.</l>
+               <l>Wherefore in nothing we ſhould be ſurpris'd,</l>
+               <l>Our minds in fore-ſight ſhould be exercis'd,</l>
+               <l>To weigh not only what's un-uſual</l>
+               <l>But to conſider too what may befall.</l>
+               <l>
+                  <pb n="3" facs="tcp:50746:3"/>
+                  <!-- PDF PAGE 120 -->
+What is ſo ſtrong, gainſt which when Fortune's bent</l>
+               <l>Though glorious, cannot receive detriment?</l>
+               <l>Or which ſhe do's not ſhake, or more moleſt</l>
+               <l>By how much it was greater than the reſt?</l>
+               <l>What's difficult by Fortune to be done?</l>
+               <l>She walks in no way always, nor alone.</l>
+               <l>Somtimes our own hands 'gainſt our ſelves ſhe bends,</l>
+               <l>And then without an Author miſchief ſends.</l>
+               <l>No time is free, our very pleaſures turn</l>
+               <l>Into great woe, and often make us mourn.</l>
+               <l>War ſometimes riſes in the midſt of Peace,</l>
+               <l>And that which ſeems our troubles to releaſe</l>
+               <l>Turns into fear: a Friend do's love forgo,</l>
+               <l>And a Companion is become a foe.</l>
+               <l>A Summers calmneſs many times do's draw</l>
+               <l>A Storm more fierce than any Winters flaw.</l>
+               <l>VVithout an Enemy we find a war,</l>
+               <l>Such is our fate, that many times we are</l>
+               <l>By our too great Felicity, to woe</l>
+               <l>Expos'd, when we no other cauſes know.</l>
+               <l>Diſeaſes the moſt temp'rate will aſſail,</l>
+               <l>The <hi>Ptiſſick</hi> on the ſtrongeſt will prevail.</l>
+               <l>Upon the guiltleſs puniſhment is laid,</l>
+               <l>And tumults will mens quietneſs invade;</l>
+               <l>Fortune oft chooſes ſomething new, whereby</l>
+               <l>On thoſe who have forgot her power, ſhe'l fly.</l>
+               <l>Whats'ever many ages have erected,</l>
+               <l>By the gods favour, and mens pains effected,</l>
+               <l>
+                  <pb n="4" facs="tcp:50746:4"/>
+                  <!-- PDF PAGE 121 -->
+One day diſſolves. He gives a long delay</l>
+               <l>To haſt'ning Evils, who allows a day.</l>
+               <l>An hour, a moment is ſufficient ſpace</l>
+               <l>Great Kingdomes to throw down, and quite erace.</l>
+               <l>It would ſome ſolace to our weakneſs bring,</l>
+               <l>And to th' Affairs of men, if every thing</l>
+               <l>Did not increaſe with ſlowneſs, and with haſt</l>
+               <l>Diſſolve and fall. There's nothing that ſtands faſt</l>
+               <l>Private or publick. Fear in thoſe things which pleaſe</l>
+               <l>And flouriſh moſt, do's ſooneſt on us ſeaſe.</l>
+               <l>And ills which are by us leaſt thought upon,</l>
+               <l>Without tumultuous cauſes will fall on.</l>
+               <l>Kingdomes which have endur'd both Civil wars</l>
+               <l>And Forrain, have without publick jars</l>
+               <l>Been ruin'd. And few Cities have enjoy'd</l>
+               <l>Felicity, and never been annoy'd.</l>
+               <l>We therefore ſhould weigh all things, and advance</l>
+               <l>Our conſtant minds, gainſt ev'ry ſad miſchance.</l>
+               <l>Think therefore ſtill on Wars, and Sickneſſes,</l>
+               <l>On Shipwracks, Baniſhments, and the Exceſs</l>
+               <l>Of Torments. Think thy Country may be taken</l>
+               <l>From thee, or elſe by thee may be forſaken.</l>
+               <l>Think Fortune may expoſe thee in a rude</l>
+               <l>Deſert; and think that where a Multitude</l>
+               <l>Is ſtifled, there a Deſert may be made.</l>
+               <l>Let the condition of Mankind be laid,</l>
+               <l>Before our eyes, and let's not only weigh</l>
+               <l>What happens often, but let's think what may</l>
+               <l>
+                  <pb n="5" facs="tcp:50746:4"/>
+                  <!-- PDF PAGE 121 -->
+Befall: and would we not our errours rue,</l>
+               <l>Miſtaking things un-uſual for new,</l>
+               <l>Let us on fortune look in her full power.</l>
+               <l>How many Cities did her rage devour</l>
+               <l>In <hi>Aſia</hi> and <hi>Achaia</hi> by one way?</l>
+               <l>How many in <hi>Syria,</hi> and <hi>Macedonia?</hi>
+               </l>
+               <l>
+                  <hi>Cyprus</hi> in many parts could not avoid</l>
+               <l>That fate, but hath been many times deſtroy'd.</l>
+               <l>How oft hath <hi>Paphus</hi> Earthquakes felt, and ſped</l>
+               <l>As ill, in her own ruines buried.</l>
+               <l>We who have often heard of Towns thus toſt,</l>
+               <l>How ſmall a part are we of men ſo loſt?</l>
+               <l>Then let us gainſt Misfortunes our minds raiſe,</l>
+               <l>And think th' are not ſo great as rumor ſays.</l>
+               <l>Fire hath conſum'd a City great and rich,</l>
+               <l>The Ornament of Provinces, in which</l>
+               <l>It did both ſeated and exempted lye,</l>
+               <l>Yet built upon one hill not very high.</l>
+               <l>Nay, all thoſe Cities famous through the world,</l>
+               <l>VVill at the length be into ruine hurl'd.</l>
+               <l>And there will not in future time appear</l>
+               <l>A Mark, or any Footſtep where they were.</l>
+               <l>See'ſt thou not that <hi>Achaia's</hi> ſtately Towns</l>
+               <l>Are ſo deſtroy'd, that there remains no Bounds</l>
+               <l>Nor yet Foundations to make it good</l>
+               <l>To the Beholders, where thoſe Cities ſtood.</l>
+               <l>Not only what is fram'd by hand and art</l>
+               <l>Time do's conſume, the tops of Mountains ſtart</l>
+               <l>
+                  <pb n="6" facs="tcp:50746:5"/>
+                  <!-- PDF PAGE 122 -->
+And tumble down, whole Regions have been found</l>
+               <l>To ſink, and many Countryes have been drown'd</l>
+               <l>Far diſtant from the ſea. High hills which were</l>
+               <l>Famous by fire, fire did in ſunder tear.</l>
+               <l>And Promontories, which have been a Mark</l>
+               <l>For Marriners to guide and ſteer their Bark;</l>
+               <l>At fight whereof they uſually have joy'd,</l>
+               <l>Have been laid flat, and utterly deſtroy'd.</l>
+               <l>The very works of Nature troubled are,</l>
+               <l>And therefore we with equal minds ſhould bear</l>
+               <l>All Cities fate. Things made, were made to fall,</l>
+               <l>And Diſſolution waits upon them all.</l>
+               <l>VVhether the violence of inward wind,</l>
+               <l>Striving a paſſage through the Earth to find,</l>
+               <l>Shakes the great weight of Earth? Or whether</l>
+               <l>Thoſe hidden torrents joyn their force together?</l>
+               <l>Or that the heat of inward flames do's waſt</l>
+               <l>The Ligaments of Earth which ty'd it faſt.</l>
+               <l>Or whether Age 'gainſt vvhich there's no defence,</l>
+               <l>Does by degrees effect this violence.</l>
+               <l>Or that a poyſonous Air the Land bereft</l>
+               <l>Of People, and infected vvhat vvas left?</l>
+               <l>To repeat all the vvays of deſtiny</l>
+               <l>VVere long, but by experience I</l>
+               <l>Am ſure of this, that mortal things are all</l>
+               <l>Condemn'd into Mortality to fall.</l>
+               <l>VVe live not where vve can find any thing</l>
+               <l>That is ſecure, but daily periſhing.</l>
+               <l>
+                  <pb n="7" facs="tcp:50746:5"/>
+                  <!-- PDF PAGE 122 -->
+Theſe comforts and the like I re-commend</l>
+               <l>To <hi>Liberalis</hi> our un-doubted friend,</l>
+               <l>Exceedingly inflamed with the love</l>
+               <l>Of his own Country, whoſe ſad fate may prove</l>
+               <l>No ſmall advantage; for perhaps that chance</l>
+               <l>Ordained was its glory more t' advance.</l>
+               <l>Many great things have faln, to riſe more high,</l>
+               <l>And often are improv'd by injury.</l>
+               <l>
+                  <hi>Timagines,</hi> a foe to th' happineſs</l>
+               <l>Of <hi>Rome,</hi> would often when 't was burnt profeſs,</l>
+               <l>
+                  <hi>The burning he did not ſo much deplore,</hi>
+               </l>
+               <l>
+                  <hi>As that it would riſe greater than before.</hi>
+               </l>
+               <l>And in this City we may well ſuppoſe</l>
+               <l>No labour will be wanting, till it grows</l>
+               <l>From a vaſt heap of aſhes and of duſt,</l>
+               <l>Greater and firmer than it was at firſt;</l>
+               <l>I whiſh 't may laſt, and being built again</l>
+               <l>With better Omen, longer may remain;</l>
+               <l>For ſince that Town was built, it is not paſt</l>
+               <l>An hundred years, an age wich ſome men laſt.</l>
+               <l>
+                  <hi>Plancus,</hi> by fitneſs of the place firſt made</l>
+               <l>The Town a great and noted Mart for Trade.</l>
+               <l>VVhich notwithſtanding hath endur'd much rage</l>
+               <l>VVithin the ſpace but of a humane age.</l>
+               <l>And therefore let us be prepared ſtill</l>
+               <l>To ſuffer patiently all ſorts of ill;</l>
+               <l>And know there's nothing Fortune cannot do,</l>
+               <l>Both to advancement and to ruine too.</l>
+               <l>
+                  <pb n="8" facs="tcp:50746:6"/>
+                  <!-- PDF PAGE 123 -->
+And that her power on Empires do's prevail</l>
+               <l>As upon Emperours, and do's aſſail</l>
+               <l>Cities as well as Men; at which things we</l>
+               <l>Should not repine, or diſcontentd be.</l>
+               <l>We are brought into a World where we muſt live</l>
+               <l>Under thoſe Laws. Do they thee pleaſe? Then give</l>
+               <l>Obedience. Do they diſpleaſe? Thou art</l>
+               <l>At Liberty at all times to depart.</l>
+               <l>Thou might'ſt complain if any of theſe were put</l>
+               <l>And thrown on thee alone unjuſtly, but</l>
+               <l>Since this neceſſity as well do's wait</l>
+               <l>On high as low, be reconcil'd to Fate,</l>
+               <l>Which all things will diſſolve. Reaſon preſents</l>
+               <l>No cauſe at all, that we by Monuments</l>
+               <l>And Tombs ſhould meaſured be. One fate attends</l>
+               <l>On mortal men, and brings them to their ends.</l>
+               <l>W' are born un-equal, but we equal dye.</l>
+               <l>The ſame of Cities as of Dwellers, I</l>
+               <l>Do here declare. <hi>Ardea</hi> was as well</l>
+               <l>Taken as <hi>Rome,</hi> though this did that excell.</l>
+               <l>The great Ordainer of all humane right</l>
+               <l>Makes no diſtinction of us by the bright</l>
+               <l>Splendour of birth and titles, longer than</l>
+               <l>We are alive, and converſant with men.</l>
+               <l>And when we end this Mortal life, begon</l>
+               <l>From hence, ſays he, depart ambition;</l>
+               <l>All Mortals walk one way, and all things ly</l>
+               <l>Equally under common deſtiny.</l>
+               <l>
+                  <pb n="9" facs="tcp:50746:6"/>
+                  <!-- PDF PAGE 123 -->
+None, then an other can be more ſecure,</l>
+               <l>Or know what he to morrow ſhall endure.</l>
+               <l>Young <hi>Alexander</hi> King of <hi>Macedon</hi>
+               </l>
+               <l>
+                  <hi>Geometry</hi> unhappily begun</l>
+               <l>To learn, the ſmallneſs of the Earth to know</l>
+               <l>Whereof the leaſt part did him homage owe.</l>
+               <l>Unhappy, I ſay, in that he ſhould have known</l>
+               <l>How falſe a Sir-name he did vainly own.</l>
+               <l>For what can in a little place be great?</l>
+               <l>The points whereof the Maſter did entreat</l>
+               <l>Were ſubtile, and not eaſily diſcern'd,</l>
+               <l>But with a diligent attention learn'd;</l>
+               <l>Not apprehended by a Frantick man</l>
+               <l>Whoſe thoughts did rove beyond the Ocean.</l>
+               <l>
+                  <hi>Teach me,</hi> ſaid he, <hi>thoſe things which will be made</hi>
+               </l>
+               <l>
+                  <hi>More eaſie to me:</hi> T' whom the Maſter ſaid,</l>
+               <l>
+                  <hi>Theſe things are ſtill the ſame, alter'd to none,</hi>
+               </l>
+               <l>
+                  <hi>And are as difficult to all, as One.</hi>
+               </l>
+               <l>Think Nature thus to all men does declare</l>
+               <l>Thoſe things at which you grumble, the ſame</l>
+               <l>To all, nor can they be more eaſie made</l>
+               <l>To any, but whoſoever ſhall perſwade</l>
+               <l>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t himſelf, without compulſion, to forſake</l>
+               <l>All fear of chances, will them eaſie make.</l>
+               <l>But how? By equalneſs of mind. Th' art born</l>
+               <l>To endure ſorrow, hunger, thirſt, and ſcorn.</l>
+               <l>And if thou longer ſhalt with men remain,</l>
+               <l>Thou fickneſs, loſs, and ruine may'ſt ſuſtain.</l>
+               <l>
+                  <pb n="10" facs="tcp:50746:7"/>
+                  <!-- PDF PAGE 124 -->
+But yet there is no reaſon thou ſhould'ſt give</l>
+               <l>Belief to thoſe things which about thee ſtrive.</l>
+               <l>For none of them are ill, or hard to bear;</l>
+               <l>It is report of men that brings this fear.</l>
+               <l>And what can be more vain, than to be vex'd</l>
+               <l>At rumour, and to be for words perplex'd?</l>
+               <l>
+                  <hi>Demetrius</hi> that he might drive away</l>
+               <l>Such fooliſhneſs, oft wittily would ſay,</l>
+               <l>
+                  <hi>I care no more what fooliſh people ſpeak</hi>
+               </l>
+               <l>
+                  <hi>Than whether wind upward or downward break.</hi>
+               </l>
+               <l>It is a madneſs we are brought to, when</l>
+               <l>We fear to be defam'd b' infamous men;</l>
+               <l>As thou without good reaſon did'ſt fear fame,</l>
+               <l>So what thou didſt not fear, when once the ſame</l>
+               <l>Shall bid thee, thou wilt fear; can it be thought</l>
+               <l>A good man ſuffers by falſe rumours, fraught</l>
+               <l>With ſcandals? Nor is Death hurt, by what</l>
+               <l>Is ſaid of it, though ſome be ſcar'd there-at.</l>
+               <l>None, who accuſe Death, have experience got.</l>
+               <l>'Tis raſhneſs to condemn what we know not.</l>
+               <l>But this we know, that 'tis a benefit</l>
+               <l>To many, and that many are by it</l>
+               <l>Diſcharg'd from torments, poverty, and grief.</l>
+               <l>And find in wearineſs, and wrongs relief.</l>
+               <l>If Death be under our own power, then where</l>
+               <l>Is any other power that we ſhould fear?</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
